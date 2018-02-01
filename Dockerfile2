@@ -1,4 +1,4 @@
-### CentOS Imageのダウンロード
+### Dockerfile2 CentOS Imageのダウンロード
 FROM centos:centos6
 ### httpdのインストール、監視対象PHPファイルのアップロード##
 RUN yum -y install httpd php
