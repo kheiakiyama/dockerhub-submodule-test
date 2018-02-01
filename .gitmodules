@@ -1,3 +1,3 @@
 [submodule "docker-newrelic-php"]
 	path = docker-newrelic-php
-	url = git@github.com:kheiakiyama/docker-newrelic-php.git
+	url = https://github.com/kheiakiyama/docker-newrelic-php.git
